@@ -7,7 +7,7 @@ Write a program to check whether the number is Armstrong number or not.
 Reverse a given integer (142-->241) 
 Write a program to check whether the number is palindrome or not. 
 Write a program to move all zeros to the end of an array. 
-    Input: 23 0 4 0017055 output: 23 4 17 55 0 0 0 0 
+    Input: {23, 0, 4, 0, 0, 17, 0, 55} output: {23, 4, 17, 55, 0, 0, 0, 0} 
 Write a program to input 3 numbers from the user and find the largest number. 
 Write a program to check if a given year is leap year or not 
 Write a program to sort an array using bubble sort algorithm. 
