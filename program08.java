@@ -1,4 +1,4 @@
-public class program8 {
+public class program08 {
     public static void main(String args[]){
         int arr[] =  {3,5,6,0,3,0,0,2,2,3};
         int temp[] =  new int[arr.length];
