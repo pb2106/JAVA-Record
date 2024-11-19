@@ -1,4 +1,4 @@
-public class program4 {
+public class program04 {
     boolean prime(int n){
         boolean isprime = true;
         if (n <= 1) {
