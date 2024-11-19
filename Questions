@@ -1,17 +1,17 @@
-1.	find the 10th Fibonacci number 
+find the 10th Fibonacci number 
     Note: consider O is Oth Fibonacci number 
-2.	Write a program to print the Fibonacci series up to 15th term. 
-3.	Write a program to check whether the number is prime or not. 
-4.	Write a program to print the prime number from 1 to 150 
-5.	Write a program to check whether the number is Armstrong number or not. 
-6.	Reverse a given integer (142-->241) 
-7.	Write a program to check whether the number is palindrome or not. 
-8.	Write a program to move all zeros to the end of an array. 
+Write a program to print the Fibonacci series up to 15th term. 
+Write a program to check whether the number is prime or not. 
+Write a program to print the prime number from 1 to 150 
+Write a program to check whether the number is Armstrong number or not. 
+Reverse a given integer (142-->241) 
+Write a program to check whether the number is palindrome or not. 
+Write a program to move all zeros to the end of an array. 
     Input: 23 0 4 0017055 output: 23 4 17 55 0 0 0 0 
-9.	Write a program to input 3 numbers from the user and find the largest number. 
-10.	Write a program to check if a given year is leap year or not 
-11.	Write a program to sort an array using bubble sort algorithm. 
-12.	Write a program to swap two variables. 
-13.	Write a program to find the second largest element in the array. 
-14.	Write a program to find the factorial of a number 
-15.	Write a program to check whether the number is Neon number or not
+Write a program to input 3 numbers from the user and find the largest number. 
+Write a program to check if a given year is leap year or not 
+Write a program to sort an array using bubble sort algorithm. 
+Write a program to swap two variables. 
+Write a program to find the second largest element in the array. 
+Write a program to find the factorial of a number 
+Write a program to check whether the number is Neon number or not
